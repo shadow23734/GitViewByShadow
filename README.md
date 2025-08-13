@@ -17,11 +17,11 @@ Satria project Git hub view
 
 ## 🎵 [Song Lyrics Viewer](https://github.com/shadow23734/song-lyrics)  
 [![Lyrics Preview](https://github.com/shadow23734/song-lyrics/raw/main/preview.gif)](https://github.com/shadow23734/song-lyrics)  
-*Tools: HTML, CSS, JavaScript*
+*Tools: Python, GitHub API*
 
 ## 👁️ [GitView](https://github.com/shadow23734/GitViewByShadow)  
 [![GitView Demo](https://github.com/shadow23734/GitViewByShadow/raw/main/assets/demo.gif)](https://github.com/shadow23734/GitViewByShadow)  
-*Tools: Python, GitHub API*
+*Tools: HTML, CSS, JavaScript*
 
 # 🎬 My GIF Collection  
 ![Coding GIF](https://github.com/username/repo/raw/main/assets/coding.gif)  
