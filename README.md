@@ -1,2 +1,31 @@
 # GitViewByShadow
 Satria project Git hub view
+
+# 🚀 Hello World! I'm Satria
+**🎨 Digital Designer | 📱 Mobile Dev Enthusiast | 🌌 Creative Explorer**
+
+[![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blueviolet&style=flat-square)](https://github.com/yourusername)
+[![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
+
+## 🔥 My Creative Arsenal
+- 🖌️ **Design Tools**: Figma | Photoshop | Illustrator
+- 📱 **Mobile Dev**: Android Studio | Flutter | Termux
+- 🌐 **Web**: HTML/CSS | JavaScript | GitHub Pages
+- 🎮 **Hobbies**: Pixel Art | Game Modding | TikTok Edits
+
+## 🌟 Featured Projects
+[![Project 1](https://via.placeholder.com/300x200/7289DA/FFFFFF?text=Project+1)](https://github.com/yourusername/project1)
+[![Project 2](https://via.placeholder.com/300x200/7289DA/FFFFFF?text=Project+2)](https://github.com/yourusername/project2)
+
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+
+## 🎬 My Digital Playground
+![Your GIF](https://via.placeholder.com/500x300/7289DA/FFFFFF?text=COOL+GIF+HERE)
+
+## 📱 Connect With Me
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281398961382)
+[![Instagram](https://img.shields.io/badge/Instagram-@surpy_ten-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/surpy_ten)
+[![TikTok](https://img.shields.io/badge/TikTok-@_satriax96z_-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@_satriax96z_)
+[![GitHub](https://img.shields.io/badge/GitHub-YourName-181717?style=for-the-badge&logo=github)](https://github.com/yourusername)
