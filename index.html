@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Satria's Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="stars"></div>
+    <div class="twinkling"></div>
+    
+    <header>
+        <div class="container">
+            <h1 class="logo" data-text="Satria">Satria</h1>
+            <div class="theme-toggle">
+                <i class="fas fa-moon"></i>
+                <i class="fas fa-sun"></i>
+                <span class="toggle-ball"></span>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="#about" class="nav-link neon-blue">About</a></li>
+                    <li><a href="#contact" class="nav-link neon-purple">Contact</a></li>
+                    <li><a href="#music" class="nav-link neon-red">Music</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section id="hero">
+            <div class="container">
+                <div class="hero-content">
+                    <div class="hero-text">
+                        <h2 class="neon-text">Hi, I'm <span class="neon-blue">Satria</span></h2>
+                        <p class="subtitle">Web Developer & Digital Creator</p>
+                        <div class="real-time">
+                            <span id="current-time"></span>
+                            <span id="current-date"></span>
+                        </div>
+                    </div>
+                    <div class="hero-image">
+                        <img src="profile.jpg" alt="Satria's Profile" class="profile-img">
+                        <div class="glow"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="about" class="section">
+            <div class="container">
+                <h2 class="section-title neon-blue">About Me</h2>
+                <div class="about-content">
+                    <div class="about-text">
+                        <p>Hello! I'm Satria, a passionate web developer and digital creator with expertise in front-end technologies.</p>
+                        <p>I specialize in creating modern, responsive websites with unique user experiences. My skills include HTML, CSS, JavaScript, and various frameworks.</p>
+                        <p>When I'm not coding, you can find me creating content, exploring new technologies, or enjoying music.</p>
+                    </div>
+                    <div class="skills">
+                        <h3 class="neon-purple">Skills</h3>
+                        <ul>
+                            <li>HTML5 & CSS3</li>
+                            <li>JavaScript (ES6+)</li>
+                            <li>React.js</li>
+                            <li>UI/UX Design</li>
+                            <li>Responsive Design</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="contact" class="section">
+            <div class="container">
+                <h2 class="section-title neon-purple">Contact</h2>
+                <div class="contact-content">
+                    <div class="contact-info">
+                        <h3 class="neon-blue">Get in Touch</h3>
+                        <ul class="contact-list">
+                            <li><i class="fas fa-phone neon-blue"></i> WhatsApp: <a href="https://wa.me/6281398961382">+62 813-9896-1382</a></li>
+                            <li><i class="fab fa-github neon-purple"></i> GitHub: <a href="https://github.com/shadow23734">shadow23734</a></li>
+                            <li><i class="fab fa-discord neon-blue"></i> Discord: satriainpc (1126470510532898896)</li>
+                            <li><i class="fab fa-instagram neon-purple"></i> Instagram: <a href="https://instagram.com/surpy_ten">@surpy_ten</a></li>
+                            <li><i class="fab fa-tiktok neon-red"></i> TikTok: <a href="https://tiktok.com/@_satriax96z_">@_satriax96z_</a></li>
+                        </ul>
+                    </div>
+                    <form class="contact-form">
+                        <div class="form-group">
+                            <input type="text" placeholder="Your Name" required>
+                        </div>
+                        <div class="form-group">
+                            <input type="email" placeholder="Your Email" required>
+                        </div>
+                        <div class="form-group">
+                            <textarea placeholder="Your Message" required></textarea>
+                        </div>
+                        <button type="submit" class="btn neon-btn">Send Message</button>
+                    </form>
+                </div>
+            </div>
+        </section>
+
+        <section id="music" class="section">
+            <div class="container">
+                <h2 class="section-title neon-red">Music</h2>
+                <div class="music-player">
+                    <div class="album-art">
+                        <img src="https://via.placeholder.com/300" alt="Album Art" id="album-art">
+                    </div>
+                    <div class="player-controls">
+                        <h3 id="song-title">Current Song</h3>
+                        <div class="progress-container">
+                            <div class="progress-bar" id="progress-bar"></div>
+                            <span id="current-time-display">0:00</span>
+                            <span id="duration">0:00</span>
+                        </div>
+                        <div class="controls">
+                            <button id="prev-btn"><i class="fas fa-backward"></i></button>
+                            <button id="play-btn"><i class="fas fa-play"></i></button>
+                            <button id="next-btn"><i class="fas fa-forward"></i></button>
+                            <div class="volume-control">
+                                <i class="fas fa-volume-up"></i>
+                                <input type="range" id="volume-slider" min="0" max="1" step="0.01" value="0.7">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Satria's Portfolio. All rights reserved.</p>
+            <div class="social-links">
+                <a href="https://github.com/shadow23734" class="neon-blue"><i class="fab fa-github"></i></a>
+                <a href="https://wa.me/6281398961382" class="neon-green"><i class="fab fa-whatsapp"></i></a>
+                <a href="https://instagram.com/surpy_ten" class="neon-purple"><i class="fab fa-instagram"></i></a>
+                <a href="https://tiktok.com/@_satriax96z_" class="neon-red"><i class="fab fa-tiktok"></i></a>
+            </div>
+        </div>
+    </footer>
+
+    <audio id="audio-player" src="song.mp3"></audio>
+    
+    <script src="script.js"></script>
+    <script src="custom.js"></script>
+</body>
+                      </html>
