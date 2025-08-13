@@ -30,7 +30,7 @@ Satria project Git hub view
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
 
 ## 🎬 My Digital Playground
-![Your GIF](https://via.placeholder.com/500x300/7289DA/FFFFFF?text=COOL+GIF+HERE)
+![Your GIF]([https://files.catbox.moe/1uuh9p.webp)
 
 ## 📱 Connect With Me
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281398961382)
