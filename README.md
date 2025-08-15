@@ -4,8 +4,8 @@ Satria project Portfolio
 # 🚀 Hello World! I'm Satria
 **🎨 Digital Designer | 📱 Mobile Dev Enthusiast | 🌌 Creative Explorer**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blueviolet&style=flat-square)](https://github.com/shadow23734)
-[![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/shadow23734)
+[![Profile Views](https://komarev.com/ghpvc/?username=shadow23734&label=Profile%20Views&color=blueviolet&style=flat-square)](https://github.com/shadow23734)
+[![GitHub Followers](https://img.shields.io/github/followers/shadow23734?label=Follow&style=social)](https://github.com/shadow23734)
 
 ## 🔥 My Creative Arsenal
 - 🖌️ **Design Tools**: Figma | Photoshop | Illustrator
@@ -20,7 +20,7 @@ Satria project Portfolio
 *Tools: Python, GitHub API*
 
 ## 👁️ [Portfolio](https://github.com/shadow23734/PortByShadow)  
-[![GitView Demo](https://github.com/shadow23734/GitViewByShadow/raw/main/assets/demo.gif)](https://github.com/shadow23734/GitViewByShadow)  
+[![GitView Demo](https://github.com/shadow23734/GitViewByShadow/raw/main/assets/demo.gif)](https://github.com/shadow23734/PortfolioByShadow)  
 *Tools: HTML, CSS, JavaScript*
 
 # 🎬 My GIF Collection  
